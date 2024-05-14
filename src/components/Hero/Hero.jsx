@@ -17,7 +17,7 @@ const Hero = () => {
           <a className='anchor-link' href='https://github.com/Emilio2207' target='_blank' rel='noopener noreferrer'>GitHub</a>
         </div>
         <div className="hero-resume">
-          <a href='/public/emilioRamirez.pdf' className='resume-link' target='_blank' rel='noopener noreferrer' download>Descargar CV</a>
+          <a href='/emilioRamirez.pdf' className='resume-link' target='_blank' rel='noopener noreferrer' download>Descargar CV</a>
         </div>
       </div>
     </div>
